@@ -1,0 +1,12 @@
+- Total income recorded: ₹5,356,892.43
+- Total expenses recorded: ₹7,389,156.96
+- Net balance: ₹-2,032,264.53
+- Highest spending category is Rent with ₹2,068,877.58, contributing 28.00% of total expenses.
+- Highest spending month is September 2025 with ₹860,326.33.
+- Top subcategory spending is Hostel Rent under Rent with ₹845,950.50.
+- Most-used payment channel by spending value is Net Banking with ₹1,547,234.28.
+- Highest expense city is Pune with total spend of ₹1,589,559.72.
+- Detected 45 unusually high-value transactions based on z-score analysis.
+- Weekend spending is ₹1,824,987.93 versus weekday spending of ₹5,564,169.03.
+- Potential overspending categories: Education, Rent, Savings, Shopping.
+- Estimated savings rate: -37.94% of income.
