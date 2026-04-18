@@ -170,7 +170,7 @@ Generate insights like overspending and savings
 
 ---
 
-## **📅 K. Commit Strategy **
+## **📅 K. Commit Strategy**
 ---
 
 Day 1 → Project setup & folder structure
