@@ -1,7 +1,7 @@
 # 💰 Expense Tracker Analytics Dashboard - Data Science
 ---
 
-## 🚀** A. Project Explanation**
+## **🚀 A. Project Explanation**
 ---
 
 ### **🔹 What is this project?**
@@ -85,6 +85,7 @@ Dashboard Output
 ## **📂 E. Folder Structure**
 ---
 
+<img width="809" height="744" alt="image" src="https://github.com/user-attachments/assets/18db3bcc-c702-4336-a85b-cd919eb8f739" />
 
 
 ---
@@ -109,7 +110,11 @@ Dashboard Output
 
 
 
-Uploading Screen Recording 2026-04-18 143434.mp4…
+
+
+https://github.com/user-attachments/assets/846ec16e-69f6-4311-849c-7faaa86c6b80
+
+
 
 
 
@@ -129,7 +134,7 @@ Uploading Screen Recording 2026-04-18 143434.mp4…
 
 ---
 
-## 🚀 **I. GitHub Upload Steps**
+## **🚀 I. GitHub Upload Steps**
 ---
 
 git init
@@ -146,7 +151,7 @@ git push -u origin main
 
 ---
 
-## 🔄** J. Virtual Simulation **
+## **🔄 J. Virtual Simulation **
 ---
 
 This project simulates a real-world financial system using synthetic data.
@@ -165,7 +170,7 @@ Generate insights like overspending and savings
 
 ---
 
-## 📅** K. Commit Strategy **
+## **📅 K. Commit Strategy **
 ---
 
 Day 1 → Project setup & folder structure
@@ -180,7 +185,7 @@ Day 5 → Dashboard & final GitHub upload
 
 ---
 
-## 💡**L. Learning Outcomes**
+## **💡L. Learning Outcomes**
 ---
 
 ✔ Built an end-to-end data pipeline (data → insights)
@@ -201,7 +206,7 @@ Day 5 → Dashboard & final GitHub upload
 
 ---
 
-## 🔮** M. Future Improvements**
+## **🔮 M. Future Improvements**
 ---
 
 📱 Build a mobile-friendly UI for better accessibility
@@ -226,7 +231,7 @@ Day 5 → Dashboard & final GitHub upload
 
 ---
 
-## 🛠️** N. Troubleshooting**
+## **🛠️ N. Troubleshooting**
 ---
 
 ### **🔹 Streamlit not recognized**
@@ -267,7 +272,7 @@ Make sure dataset is not empty
 
 ---
 
-## **O. 👩‍💻 Author**
+## ** O. 👩‍💻 Author**
 ---
 
 **Srija Chatterjee**
