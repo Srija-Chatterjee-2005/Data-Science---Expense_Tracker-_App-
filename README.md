@@ -90,7 +90,7 @@ Dashboard Output
 
 ---
 
-##**⚙️ F. Installation Steps**
+## **⚙️ F. Installation Steps**
 ---
 
 ### **Step 1: Clone repo**
@@ -151,7 +151,7 @@ git push -u origin main
 
 ---
 
-## **🔄 J. Virtual Simulation **
+## ** 🔄 J. Virtual Simulation**
 ---
 
 This project simulates a real-world financial system using synthetic data.
@@ -170,7 +170,7 @@ Generate insights like overspending and savings
 
 ---
 
-## **📅 K. Commit Strategy **
+## ** 📅 K. Commit Strategy **
 ---
 
 Day 1 → Project setup & folder structure
@@ -272,7 +272,7 @@ Make sure dataset is not empty
 
 ---
 
-## ** O. 👩‍💻 Author**
+## **O. 👩‍💻 Author**
 ---
 
 **Srija Chatterjee**
